@@ -1,8 +1,10 @@
 # 🔐 **DN4IPTV+**
 
-Welcome to **DN4IPTV+** — an extended and exclusive version of the public DN4IPTV playlist, containing **additional curated channels** that are intended for **private access only**. This repository is **hidden** and access to the `.m3u` playlist is strictly **invite-only**.
-
 This repository is a **demo version** of the **DN4IPTV+** service, which serves as a preview of the full service. The stream link is available **only through invite** and should not be shared publicly. This page exists to showcase the service, similar to previous versions of DN4IPTV, but with added privacy and exclusivity.
+
+---
+
+Welcome to **DN4IPTV+** — an extended and exclusive version of the public DN4IPTV playlist, containing **additional curated channels** that are intended for **private access only**. This repository is **hidden** and access to the `.m3u` playlist is strictly **invite-only**.
 
 The **DN4IPTV+** playlist is **completely free to use**, and is **not affiliated with or a replacement for any commercial IPTV service**. It exists solely for educational and testing purposes. The streams included have been sourced from publicly accessible links available online.
 
