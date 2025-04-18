@@ -76,4 +76,3 @@ Use this playlist **at your own risk** and ensure compliance with local laws and
 
 ---
 
-Thank you for respecting the privacy and integrity of **DN4IPTV+**. 🙏
