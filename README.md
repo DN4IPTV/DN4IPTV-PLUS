@@ -14,7 +14,7 @@ Welcome to **DN4IPTV+** — a private, invite-only extension of the public DN4IP
 
 - ❌ **Do not** share your private playlist link or file publicly.  
 - ❌ **Do not** use this playlist for commercial or resale purposes.  
-- ✅ Use responsibly for educational, experimental, or personal testing only.  
+- ✅ Use responsibly for educational, entertainment, or personal testing only.  
 
 Misuse or abuse of this content **may lead to revoked access** and could have legal implications depending on jurisdiction.
 
